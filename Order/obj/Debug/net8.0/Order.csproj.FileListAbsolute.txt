@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/bin/Debug/net8.0/Order
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/bin/Debug/net8.0/Order.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/bin/Debug/net8.0/Order.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/bin/Debug/net8.0/Order.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/bin/Debug/net8.0/Order.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/refint/Order.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/Order.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Order/obj/Debug/net8.0/ref/Order.dll

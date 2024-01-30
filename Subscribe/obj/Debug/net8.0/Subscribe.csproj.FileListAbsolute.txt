@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/bin/Debug/net8.0/Subscribe
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/bin/Debug/net8.0/Subscribe.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/bin/Debug/net8.0/Subscribe.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/bin/Debug/net8.0/Subscribe.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/bin/Debug/net8.0/Subscribe.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/refint/Subscribe.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/Subscribe.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/Subscribe/obj/Debug/net8.0/ref/Subscribe.dll

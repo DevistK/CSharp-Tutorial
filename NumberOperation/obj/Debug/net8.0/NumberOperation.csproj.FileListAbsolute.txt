@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/bin/Debug/net8.0/NumberOperation
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/bin/Debug/net8.0/NumberOperation.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/bin/Debug/net8.0/NumberOperation.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/bin/Debug/net8.0/NumberOperation.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/bin/Debug/net8.0/NumberOperation.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/refint/NumberOperation.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/NumberOperation.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/NumberOperation/obj/Debug/net8.0/ref/NumberOperation.dll

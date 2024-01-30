@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll

@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/bin/Debug/net8.0/CalculatorTestApp1
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/bin/Debug/net8.0/CalculatorTestApp1.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/bin/Debug/net8.0/CalculatorTestApp1.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/bin/Debug/net8.0/CalculatorTestApp1.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/bin/Debug/net8.0/CalculatorTestApp1.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/refint/CalculatorTestApp1.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/CalculatorTestApp1.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/CalculatorTestApp1/obj/Debug/net8.0/ref/CalculatorTestApp1.dll

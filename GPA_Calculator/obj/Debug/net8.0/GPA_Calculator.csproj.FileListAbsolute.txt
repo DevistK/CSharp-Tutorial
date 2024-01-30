@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/bin/Debug/net8.0/GPA_Calculator
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/bin/Debug/net8.0/GPA_Calculator.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/bin/Debug/net8.0/GPA_Calculator.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/bin/Debug/net8.0/GPA_Calculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/bin/Debug/net8.0/GPA_Calculator.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/refint/GPA_Calculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/GPA_Calculator.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/GPA_Calculator/obj/Debug/net8.0/ref/GPA_Calculator.dll

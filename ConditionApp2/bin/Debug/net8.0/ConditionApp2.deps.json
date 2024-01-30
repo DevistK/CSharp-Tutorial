@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConditionApp2/1.0.0": {
+        "runtime": {
+          "ConditionApp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

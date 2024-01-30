@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/bin/Debug/net8.0/RandomDice
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/bin/Debug/net8.0/RandomDice.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/bin/Debug/net8.0/RandomDice.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/bin/Debug/net8.0/RandomDice.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/bin/Debug/net8.0/RandomDice.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/refint/RandomDice.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/RandomDice.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RandomDice/obj/Debug/net8.0/ref/RandomDice.dll

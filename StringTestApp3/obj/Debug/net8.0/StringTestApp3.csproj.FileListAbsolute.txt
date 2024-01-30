@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/bin/Debug/net8.0/StringTestApp3
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/bin/Debug/net8.0/StringTestApp3.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/bin/Debug/net8.0/StringTestApp3.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/bin/Debug/net8.0/StringTestApp3.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/bin/Debug/net8.0/StringTestApp3.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/refint/StringTestApp3.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/StringTestApp3.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/StringTestApp3/obj/Debug/net8.0/ref/StringTestApp3.dll

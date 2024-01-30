@@ -1,0 +1,14 @@
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/bin/Debug/net8.0/RecordCalculator
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/bin/Debug/net8.0/RecordCalculator.deps.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/bin/Debug/net8.0/RecordCalculator.runtimeconfig.json
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/bin/Debug/net8.0/RecordCalculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/bin/Debug/net8.0/RecordCalculator.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.AssemblyInfoInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.AssemblyInfo.cs
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.csproj.CoreCompileInputs.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/refint/RecordCalculator.dll
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.pdb
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/RecordCalculator.genruntimeconfig.cache
+/Users/seodonghyeog/RiderProjects/ConsoleApp/RecordCalculator/obj/Debug/net8.0/ref/RecordCalculator.dll
